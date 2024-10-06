@@ -24,8 +24,8 @@ This React application provides a simple counter that allows users to increment 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/BhoomiGohil/Scrimba-React-useState-Counter.git
+cd Scrimba-React-useState-Counter
 ```
 
 2. Install dependencies:
